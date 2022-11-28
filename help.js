@@ -723,13 +723,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085172446692
-A/N: levi
+*Payment Pulsa*
+Number: 085749618902
+A/N: Andhika
 
-*Payment Dana*
-Number: 085172446692
-A/N: levi
+*Payment Dana/Gopay/OVO*
+Number: 085749618902
+A/N: Andhika
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,18 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* levi
- • *Umur:* 13 tahun
- • *Hoby:* sendiri/tiktok
- • *Askot:* Berau
- • *Konten:* Creator
+ • *Nama:* Andhika
+ • *Umur:* 14 tahun
+ • *Hoby:* rebahan/tiktok
+ • *Askot:* Mojokerto/Jawa Timur
+ • *Konten:* -
 
-_iam developer bot whatsapp._
+_iam not developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085172446692
- • *Youtube:* LEVI GANZ
- • *Github:* victorbot22
+ • *Whatsapp:* 085749618902
+ • *Youtube:* -
+ • *Tiktok :* @andhikagg
+ • *Github:* AndhikaGG
  `
 }
